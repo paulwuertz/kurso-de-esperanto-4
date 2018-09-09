@@ -249,7 +249,7 @@ Label16=dieci
 Label18=diciannove
 Label17=uno
 Label19=due
-Label9=Vocaboli 
+Label9=Vocaboli
 Label272=[un']ora
 Label273=[un] anno
 Label274="[una] mattina, [un] mattino"
@@ -1867,7 +1867,7 @@ Label70=Qualsiasi aiuto è benvenuto.
 11="Questa parola è una congiunzione; e non prende la terminazione -n."
 12="Parole di questo tipo (saluton, dankon, etc.) prendono la terminazione -n perché s'intendono sostitutive di una frase più lunga (\"Ti mando un saluto\", \"Ti dico grazie \", etc.)."
 
-[General]
+[gheneralaj]
 Label50=Lo / Uno stolto scrive il proprio nome dappertutto.
 Label64=Cos'è la geografia? -- La geografia è [una] scienza.
 Label339=[un] annuncio
